@@ -1,0 +1,10 @@
+artifact_location: file:///D:/7th%20sem/MLDevOps/Submission/MLDevOpsISE2Theory/mlruns/283140078605330525/models/m-3e63a4c9ea0d4f938608a7c3244c1073/artifacts
+creation_timestamp: 1793107265262
+experiment_id: '283140078605330525'
+last_updated_timestamp: 1793107286179
+model_id: m-3e63a4c9ea0d4f938608a7c3244c1073
+model_type: null
+name: test_m
+source_run_id: null
+status: 2
+status_message: null

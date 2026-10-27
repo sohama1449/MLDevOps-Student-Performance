@@ -1,0 +1,10 @@
+artifact_location: file:///D:/7th sem/MLDevOps/Submission/MLDevOpsISE2Theory/mlruns/307191662554392437/models/m-28925c0620ff4f328a6fd579f41f1473/artifacts
+creation_timestamp: 1793107202477
+experiment_id: '307191662554392437'
+last_updated_timestamp: 1793107212987
+model_id: m-28925c0620ff4f328a6fd579f41f1473
+model_type: null
+name: random_forest_model
+source_run_id: d36e7fd3fd114fd8bcb813d5663214da
+status: 3
+status_message: null

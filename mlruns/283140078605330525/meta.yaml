@@ -1,0 +1,9 @@
+artifact_location: file:///D:/7th%20sem/MLDevOps/Submission/MLDevOpsISE2Theory/mlruns/283140078605330525
+creation_time: 1793107264948
+effective_trace_archival_retention: null
+experiment_id: '283140078605330525'
+last_update_time: 1793107264948
+lifecycle_stage: active
+name: test_exp
+trace_location: null
+workspace: default

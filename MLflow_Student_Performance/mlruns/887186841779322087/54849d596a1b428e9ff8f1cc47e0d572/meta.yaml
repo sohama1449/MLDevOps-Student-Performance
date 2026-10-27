@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/7th sem/MLDevOps/Submission/MLDevOpsISE2Theory/MLflow_Student_Performance/mlruns/887186841779322087/54849d596a1b428e9ff8f1cc47e0d572/artifacts
+end_time: 1793108147929
+entry_point_name: ''
+experiment_id: '887186841779322087'
+lifecycle_stage: active
+run_id: 54849d596a1b428e9ff8f1cc47e0d572
+run_name: RandomForest_Baseline_Training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793108132869
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,79 @@
+{
+    "overall_drift_detected": true,
+    "features_analyzed": 6,
+    "drift_features_count": 3,
+    "details": [
+        {
+            "Feature Name": "study_time",
+            "Feature Type": "Numerical",
+            "Old Distribution": "Mean=6.33, Std=2.22",
+            "New Distribution": "Mean=3.3, Std=1.44",
+            "Mean Shift": -3.03,
+            "Old Std": 2.22,
+            "New Std": 1.44,
+            "PSI Score": 3.0509,
+            "KS p-value": 0.0,
+            "Drift Detected": "Yes"
+        },
+        {
+            "Feature Name": "absences",
+            "Feature Type": "Numerical",
+            "Old Distribution": "Mean=3.92, Std=1.99",
+            "New Distribution": "Mean=9.94, Std=3.21",
+            "Mean Shift": 6.02,
+            "Old Std": 1.99,
+            "New Std": 3.21,
+            "PSI Score": 3.6757,
+            "KS p-value": 0.0,
+            "Drift Detected": "Yes"
+        },
+        {
+            "Feature Name": "previous_score",
+            "Feature Type": "Numerical",
+            "Old Distribution": "Mean=71.57, Std=11.25",
+            "New Distribution": "Mean=56.82, Std=12.9",
+            "Mean Shift": -14.75,
+            "Old Std": 11.25,
+            "New Std": 12.9,
+            "PSI Score": 1.3232,
+            "KS p-value": 0.0,
+            "Drift Detected": "Yes"
+        },
+        {
+            "Feature Name": "gender",
+            "Feature Type": "Categorical",
+            "Old Distribution": "Mode: Female",
+            "New Distribution": "Mode: Male",
+            "Mean Shift": null,
+            "Old Std": null,
+            "New Std": null,
+            "PSI Score": 0.0085,
+            "KS p-value": null,
+            "Drift Detected": "No"
+        },
+        {
+            "Feature Name": "parental_education",
+            "Feature Type": "Categorical",
+            "Old Distribution": "Mode: Bachelor",
+            "New Distribution": "Mode: High School",
+            "Mean Shift": null,
+            "Old Std": null,
+            "New Std": null,
+            "PSI Score": 0.1092,
+            "KS p-value": null,
+            "Drift Detected": "No"
+        },
+        {
+            "Feature Name": "internet_access",
+            "Feature Type": "Categorical",
+            "Old Distribution": "Mode: Yes",
+            "New Distribution": "Mode: Yes",
+            "Mean Shift": null,
+            "Old Std": null,
+            "New Std": null,
+            "PSI Score": 0.1177,
+            "KS p-value": null,
+            "Drift Detected": "No"
+        }
+    ]
+}

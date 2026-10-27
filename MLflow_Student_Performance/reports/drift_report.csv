@@ -1,0 +1,7 @@
+Feature Name,Feature Type,Old Distribution,New Distribution,Mean Shift,Old Std,New Std,PSI Score,KS p-value,Drift Detected
+study_time,Numerical,"Mean=6.33, Std=2.22","Mean=3.3, Std=1.44",-3.03,2.22,1.44,3.0509,0.0,Yes
+absences,Numerical,"Mean=3.92, Std=1.99","Mean=9.94, Std=3.21",6.02,1.99,3.21,3.6757,0.0,Yes
+previous_score,Numerical,"Mean=71.57, Std=11.25","Mean=56.82, Std=12.9",-14.75,11.25,12.9,1.3232,0.0,Yes
+gender,Categorical,Mode: Female,Mode: Male,,,,0.0085,,No
+parental_education,Categorical,Mode: Bachelor,Mode: High School,,,,0.1092,,No
+internet_access,Categorical,Mode: Yes,Mode: Yes,,,,0.1177,,No

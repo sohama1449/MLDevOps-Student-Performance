@@ -1,0 +1,9 @@
+artifact_location: file:///D:/7th sem/MLDevOps/Submission/MLDevOpsISE2Theory/MLflow_Student_Performance/mlruns/887186841779322087
+creation_time: 1793108130051
+effective_trace_archival_retention: null
+experiment_id: '887186841779322087'
+last_update_time: 1793108130051
+lifecycle_stage: active
+name: Student_Performance_Prediction
+trace_location: null
+workspace: default

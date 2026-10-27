@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/7th sem/MLDevOps/Submission/MLDevOpsISE2Theory/mlruns/307191662554392437/932796bf637e4f2d834e38aa02448989/artifacts
+end_time: 1793107481781
+entry_point_name: ''
+experiment_id: '307191662554392437'
+lifecycle_stage: active
+run_id: 932796bf637e4f2d834e38aa02448989
+run_name: RandomForest_Retrained_Post_Drift
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1793107468007
+status: 3
+tags: []
+user_id: lenovo
